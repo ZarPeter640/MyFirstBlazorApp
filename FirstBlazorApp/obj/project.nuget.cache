@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IC0Qh0QXbVKPgHnxoxQV69wBUNFblW9hOzjsWuM0mX2ouqICq6KyfBt3sStRrEZ0JKrp+g2IhmwJ1OMMiIMqmw==",
+  "dgSpecHash": "OC2U6ddXZQuzMCqzWbLO0HBXPN1VBdq6/NPyxveSO0JAQ/y5yTjVjoUW5NsWsgd87QT5SrXZK6J6fr3awTnyGA==",
   "success": true,
-  "projectFilePath": "/Users/jonaspeter/Desktop/FirstBlazorApp/FirstBlazorApp.csproj",
+  "projectFilePath": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/FirstBlazorApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
