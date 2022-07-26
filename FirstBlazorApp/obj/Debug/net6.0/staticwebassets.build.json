@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rwQ1Y0duHpYG/qOROmdkbQy93IhFhxf+78Tu+tbw5Iw=",
+  "Hash": "UsO9kGckQ40ZBej1sMxz1ZwpXQLnXRS4VZpbTADu29o=",
   "Source": "FirstBlazorApp",
   "BasePath": "_content/FirstBlazorApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "FirstBlazorApp/wwwroot",
       "Source": "FirstBlazorApp",
-      "ContentRoot": "/Users/jonaspeter/Desktop/FirstBlazorApp/wwwroot/",
+      "ContentRoot": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/wwwroot/",
       "BasePath": "_content/FirstBlazorApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/jonaspeter/Desktop/FirstBlazorApp/obj/Debug/net6.0/scopedcss/bundle/FirstBlazorApp.styles.css",
+      "Identity": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/obj/Debug/net6.0/scopedcss/bundle/FirstBlazorApp.styles.css",
       "SourceId": "FirstBlazorApp",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/jonaspeter/Desktop/FirstBlazorApp/obj/Debug/net6.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/obj/Debug/net6.0/scopedcss/bundle/",
       "BasePath": "_content/FirstBlazorApp",
       "RelativePath": "FirstBlazorApp.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/jonaspeter/Desktop/FirstBlazorApp/obj/Debug/net6.0/scopedcss/bundle/FirstBlazorApp.styles.css"
+      "OriginalItemSpec": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/obj/Debug/net6.0/scopedcss/bundle/FirstBlazorApp.styles.css"
     },
     {
-      "Identity": "/Users/jonaspeter/Desktop/FirstBlazorApp/obj/Debug/net6.0/scopedcss/projectbundle/FirstBlazorApp.bundle.scp.css",
+      "Identity": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/obj/Debug/net6.0/scopedcss/projectbundle/FirstBlazorApp.bundle.scp.css",
       "SourceId": "FirstBlazorApp",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/jonaspeter/Desktop/FirstBlazorApp/obj/Debug/net6.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/obj/Debug/net6.0/scopedcss/projectbundle/",
       "BasePath": "_content/FirstBlazorApp",
       "RelativePath": "FirstBlazorApp.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/jonaspeter/Desktop/FirstBlazorApp/obj/Debug/net6.0/scopedcss/projectbundle/FirstBlazorApp.bundle.scp.css"
+      "OriginalItemSpec": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/obj/Debug/net6.0/scopedcss/projectbundle/FirstBlazorApp.bundle.scp.css"
     },
     {
-      "Identity": "/Users/jonaspeter/Desktop/FirstBlazorApp/wwwroot/css/bootstrap/bootstrap.min.css",
+      "Identity": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/wwwroot/css/bootstrap/bootstrap.min.css",
       "SourceId": "FirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/jonaspeter/Desktop/FirstBlazorApp/wwwroot/",
+      "ContentRoot": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/wwwroot/",
       "BasePath": "_content/FirstBlazorApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/jonaspeter/Desktop/FirstBlazorApp/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "Identity": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/wwwroot/css/bootstrap/bootstrap.min.css.map",
       "SourceId": "FirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/jonaspeter/Desktop/FirstBlazorApp/wwwroot/",
+      "ContentRoot": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/wwwroot/",
       "BasePath": "_content/FirstBlazorApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/jonaspeter/Desktop/FirstBlazorApp/wwwroot/css/open-iconic/FONT-LICENSE",
+      "Identity": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/wwwroot/css/open-iconic/FONT-LICENSE",
       "SourceId": "FirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/jonaspeter/Desktop/FirstBlazorApp/wwwroot/",
+      "ContentRoot": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/wwwroot/",
       "BasePath": "_content/FirstBlazorApp",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/FONT-LICENSE"
     },
     {
-      "Identity": "/Users/jonaspeter/Desktop/FirstBlazorApp/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "Identity": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "SourceId": "FirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/jonaspeter/Desktop/FirstBlazorApp/wwwroot/",
+      "ContentRoot": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/wwwroot/",
       "BasePath": "_content/FirstBlazorApp",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "/Users/jonaspeter/Desktop/FirstBlazorApp/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "Identity": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
       "SourceId": "FirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/jonaspeter/Desktop/FirstBlazorApp/wwwroot/",
+      "ContentRoot": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/wwwroot/",
       "BasePath": "_content/FirstBlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.eot"
     },
     {
-      "Identity": "/Users/jonaspeter/Desktop/FirstBlazorApp/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "Identity": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
       "SourceId": "FirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/jonaspeter/Desktop/FirstBlazorApp/wwwroot/",
+      "ContentRoot": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/wwwroot/",
       "BasePath": "_content/FirstBlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.otf"
     },
     {
-      "Identity": "/Users/jonaspeter/Desktop/FirstBlazorApp/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "Identity": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
       "SourceId": "FirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/jonaspeter/Desktop/FirstBlazorApp/wwwroot/",
+      "ContentRoot": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/wwwroot/",
       "BasePath": "_content/FirstBlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.svg"
     },
     {
-      "Identity": "/Users/jonaspeter/Desktop/FirstBlazorApp/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "Identity": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
       "SourceId": "FirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/jonaspeter/Desktop/FirstBlazorApp/wwwroot/",
+      "ContentRoot": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/wwwroot/",
       "BasePath": "_content/FirstBlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.ttf"
     },
     {
-      "Identity": "/Users/jonaspeter/Desktop/FirstBlazorApp/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "Identity": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
       "SourceId": "FirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/jonaspeter/Desktop/FirstBlazorApp/wwwroot/",
+      "ContentRoot": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/wwwroot/",
       "BasePath": "_content/FirstBlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.woff"
     },
     {
-      "Identity": "/Users/jonaspeter/Desktop/FirstBlazorApp/wwwroot/css/open-iconic/ICON-LICENSE",
+      "Identity": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/wwwroot/css/open-iconic/ICON-LICENSE",
       "SourceId": "FirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/jonaspeter/Desktop/FirstBlazorApp/wwwroot/",
+      "ContentRoot": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/wwwroot/",
       "BasePath": "_content/FirstBlazorApp",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/ICON-LICENSE"
     },
     {
-      "Identity": "/Users/jonaspeter/Desktop/FirstBlazorApp/wwwroot/css/open-iconic/README.md",
+      "Identity": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/wwwroot/css/open-iconic/README.md",
       "SourceId": "FirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/jonaspeter/Desktop/FirstBlazorApp/wwwroot/",
+      "ContentRoot": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/wwwroot/",
       "BasePath": "_content/FirstBlazorApp",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/README.md"
     },
     {
-      "Identity": "/Users/jonaspeter/Desktop/FirstBlazorApp/wwwroot/css/site.css",
+      "Identity": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/wwwroot/css/site.css",
       "SourceId": "FirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/jonaspeter/Desktop/FirstBlazorApp/wwwroot/",
+      "ContentRoot": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/wwwroot/",
       "BasePath": "_content/FirstBlazorApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/Users/jonaspeter/Desktop/FirstBlazorApp/wwwroot/favicon.ico",
+      "Identity": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/wwwroot/favicon.ico",
       "SourceId": "FirstBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/jonaspeter/Desktop/FirstBlazorApp/wwwroot/",
+      "ContentRoot": "/Users/jonaspeter/Projects/MyFirstBlazorApp/FirstBlazorApp/wwwroot/",
       "BasePath": "_content/FirstBlazorApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
